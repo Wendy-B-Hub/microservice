@@ -1,0 +1,7 @@
+/Users/goodhello/Downloads/microservice-parent-project/microservice_new/product_service/src/main/java/com/example/product_service/ProductServiceApplication.java
+/Users/goodhello/Downloads/microservice-parent-project/microservice_new/product_service/src/main/java/com/example/product_service/dto/ProductRequest.java
+/Users/goodhello/Downloads/microservice-parent-project/microservice_new/product_service/src/main/java/com/example/product_service/repository/ProductRepository.java
+/Users/goodhello/Downloads/microservice-parent-project/microservice_new/product_service/src/main/java/com/example/product_service/model/Product.java
+/Users/goodhello/Downloads/microservice-parent-project/microservice_new/product_service/src/main/java/com/example/product_service/dto/ProductResponse.java
+/Users/goodhello/Downloads/microservice-parent-project/microservice_new/product_service/src/main/java/com/example/product_service/controller/ProductController.java
+/Users/goodhello/Downloads/microservice-parent-project/microservice_new/product_service/src/main/java/com/example/product_service/service/ProductService.java
